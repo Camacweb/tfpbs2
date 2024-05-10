@@ -1,6 +1,6 @@
-# Vera Website
+# The Fabric Place Website
 
-Bootstrap Business website for software solutions, but could easily be changed to fit any business. Dark-themed design with modals and other features.
+Bootstrap Business website for software solutions, but could easily be changed to fit any business. Dark-themed design with modals and other features. Originally from Brad Traversy online tutorial course for Bootstrap 5.
 
 <img src="./images/screen.png" />
 
@@ -12,7 +12,6 @@ Bootstrap Business website for software solutions, but could easily be changed t
 - Navbar scroll effect
 - Video modal
 - Animated play button
-- Pricing grid
 - Styled modals for projects
 - Font awesome icons
 
