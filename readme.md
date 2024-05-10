@@ -2,7 +2,7 @@
 
 Bootstrap Business website for software solutions, but could easily be changed to fit any business. Dark-themed design with modals and other features. Originally from Brad Traversy online tutorial course for Bootstrap 5.
 
-<img src="./images/screen.png" />
+<!-- <img src="./images/screen.png" /> -->
 
 ## Features
 
